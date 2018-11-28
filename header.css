@@ -3,6 +3,9 @@ header {
    overflow: hidden;
    margin: 0 115px;
    padding: 55px 62px 92px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
 }
 
 h1 {
@@ -19,10 +22,9 @@ a {
    font-family: SegoeUI, Arial, Helvetica, sans-serif;
    font-size: 21px;
    text-decoration: none;
-   margin: 0 30px;
+   padding: 0 30px;
 }
 
-h1,
-a {
+h1, a {
    color: #fff;
 }
