@@ -1,0 +1,31 @@
+.description-list-store {
+   color: #fff;
+   font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+.description-title {
+   font-size: 25px;
+   margin: 138px 0 99px;
+}
+
+.description-info {
+   font-size: 20px;
+   text-transform: uppercase;
+   margin-bottom: 26px;
+   word-spacing: 82px;
+}
+
+.description-info.-last {
+   margin-bottom: 73px;
+}
+
+.description-item {
+   font-size: 18px;
+}
+
+.description-item.-action {
+   color: #fff;
+   text-decoration: none;
+   margin: 30px 0 118px 0;
+   display: inline-block;
+}
